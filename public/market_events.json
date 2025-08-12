@@ -1,0 +1,1202 @@
+[
+  {
+    "name": "Finance Reports Record Profits",
+    "affects": [
+      "Finance"
+    ],
+    "change_range": [
+      8,
+      23
+    ]
+  },
+  {
+    "name": "Government Subsidy in Aero",
+    "affects": [
+      "Aero"
+    ],
+    "change_range": [
+      9,
+      16
+    ]
+  },
+  {
+    "name": "Energy Launches New Product",
+    "affects": [
+      "Energy"
+    ],
+    "change_range": [
+      8,
+      14
+    ]
+  },
+  {
+    "name": "Tax Cut for Agro",
+    "affects": [
+      "Agro"
+    ],
+    "change_range": [
+      10,
+      14
+    ]
+  },
+  {
+    "name": "Breakthrough Innovation in Real Estate",
+    "affects": [
+      "Real Estate"
+    ],
+    "change_range": [
+      6,
+      11
+    ]
+  },
+  {
+    "name": "Retail Expands Globally",
+    "affects": [
+      "Retail"
+    ],
+    "change_range": [
+      6,
+      18
+    ]
+  },
+  {
+    "name": "Tax Cut for Tourism",
+    "affects": [
+      "Tourism"
+    ],
+    "change_range": [
+      7,
+      18
+    ]
+  },
+  {
+    "name": "Logistics Reports Record Profits",
+    "affects": [
+      "Logistics"
+    ],
+    "change_range": [
+      5,
+      23
+    ]
+  },
+  {
+    "name": "Luxury Receives Major Investment",
+    "affects": [
+      "Luxury"
+    ],
+    "change_range": [
+      9,
+      21
+    ]
+  },
+  {
+    "name": "Logistics Receives Major Investment",
+    "affects": [
+      "Logistics"
+    ],
+    "change_range": [
+      5,
+      14
+    ]
+  },
+  {
+    "name": "Breakthrough Innovation in Aero",
+    "affects": [
+      "Aero"
+    ],
+    "change_range": [
+      9,
+      12
+    ]
+  },
+  {
+    "name": "Government Subsidy in Agro",
+    "affects": [
+      "Agro"
+    ],
+    "change_range": [
+      8,
+      17
+    ]
+  },
+  {
+    "name": "Breakthrough Innovation in Energy",
+    "affects": [
+      "Energy"
+    ],
+    "change_range": [
+      7,
+      20
+    ]
+  },
+  {
+    "name": "Healthcare Declared Sector of National Importance",
+    "affects": [
+      "Healthcare"
+    ],
+    "change_range": [
+      9,
+      19
+    ]
+  },
+  {
+    "name": "Agro Expands Globally",
+    "affects": [
+      "Agro"
+    ],
+    "change_range": [
+      6,
+      19
+    ]
+  },
+  {
+    "name": "Tax Cut for Pharma",
+    "affects": [
+      "Pharma"
+    ],
+    "change_range": [
+      10,
+      14
+    ]
+  },
+  {
+    "name": "Breakthrough Innovation in Auto",
+    "affects": [
+      "Auto"
+    ],
+    "change_range": [
+      10,
+      22
+    ]
+  },
+  {
+    "name": "Energy Launches New Product",
+    "affects": [
+      "Energy"
+    ],
+    "change_range": [
+      8,
+      19
+    ]
+  },
+  {
+    "name": "Positive Regulation for Tourism",
+    "affects": [
+      "Tourism"
+    ],
+    "change_range": [
+      9,
+      19
+    ]
+  },
+  {
+    "name": "Tax Cut for Defense",
+    "affects": [
+      "Defense"
+    ],
+    "change_range": [
+      6,
+      17
+    ]
+  },
+  {
+    "name": "Finance Launches New Product",
+    "affects": [
+      "Finance"
+    ],
+    "change_range": [
+      10,
+      14
+    ]
+  },
+  {
+    "name": "Government Subsidy in Retail",
+    "affects": [
+      "Retail"
+    ],
+    "change_range": [
+      10,
+      15
+    ]
+  },
+  {
+    "name": "Tax Cut for Telecom",
+    "affects": [
+      "Telecom"
+    ],
+    "change_range": [
+      9,
+      20
+    ]
+  },
+  {
+    "name": "Tech Expands Globally",
+    "affects": [
+      "Tech"
+    ],
+    "change_range": [
+      8,
+      23
+    ]
+  },
+  {
+    "name": "Real Estate Reports Record Profits",
+    "affects": [
+      "Real Estate"
+    ],
+    "change_range": [
+      5,
+      24
+    ]
+  },
+  {
+    "name": "Energy Acquires Competitor",
+    "affects": [
+      "Energy"
+    ],
+    "change_range": [
+      10,
+      19
+    ]
+  },
+  {
+    "name": "Tax Cut for Tourism",
+    "affects": [
+      "Tourism"
+    ],
+    "change_range": [
+      8,
+      15
+    ]
+  },
+  {
+    "name": "Pharma Reports Record Profits",
+    "affects": [
+      "Pharma"
+    ],
+    "change_range": [
+      8,
+      12
+    ]
+  },
+  {
+    "name": "Tech Expands Globally",
+    "affects": [
+      "Tech"
+    ],
+    "change_range": [
+      9,
+      12
+    ]
+  },
+  {
+    "name": "Government Subsidy in Tourism",
+    "affects": [
+      "Tourism"
+    ],
+    "change_range": [
+      6,
+      16
+    ]
+  },
+  {
+    "name": "Construction Expands Globally",
+    "affects": [
+      "Construction"
+    ],
+    "change_range": [
+      5,
+      23
+    ]
+  },
+  {
+    "name": "High Demand in Aero",
+    "affects": [
+      "Aero"
+    ],
+    "change_range": [
+      6,
+      18
+    ]
+  },
+  {
+    "name": "Telecom Receives Major Investment",
+    "affects": [
+      "Telecom"
+    ],
+    "change_range": [
+      5,
+      17
+    ]
+  },
+  {
+    "name": "Government Subsidy in Pharma",
+    "affects": [
+      "Pharma"
+    ],
+    "change_range": [
+      6,
+      17
+    ]
+  },
+  {
+    "name": "Telecom Launches New Product",
+    "affects": [
+      "Telecom"
+    ],
+    "change_range": [
+      5,
+      22
+    ]
+  },
+  {
+    "name": "Positive Regulation for Tourism",
+    "affects": [
+      "Tourism"
+    ],
+    "change_range": [
+      6,
+      20
+    ]
+  },
+  {
+    "name": "Tech Reports Record Profits",
+    "affects": [
+      "Tech"
+    ],
+    "change_range": [
+      8,
+      25
+    ]
+  },
+  {
+    "name": "Construction Acquires Competitor",
+    "affects": [
+      "Construction"
+    ],
+    "change_range": [
+      9,
+      20
+    ]
+  },
+  {
+    "name": "Food Reports Record Profits",
+    "affects": [
+      "Food"
+    ],
+    "change_range": [
+      10,
+      24
+    ]
+  },
+  {
+    "name": "Auto Declared Sector of National Importance",
+    "affects": [
+      "Auto"
+    ],
+    "change_range": [
+      9,
+      15
+    ]
+  },
+  {
+    "name": "High Demand in Healthcare",
+    "affects": [
+      "Healthcare"
+    ],
+    "change_range": [
+      6,
+      17
+    ]
+  },
+  {
+    "name": "Auto Acquires Competitor",
+    "affects": [
+      "Auto"
+    ],
+    "change_range": [
+      8,
+      22
+    ]
+  },
+  {
+    "name": "Energy Acquires Competitor",
+    "affects": [
+      "Energy"
+    ],
+    "change_range": [
+      10,
+      18
+    ]
+  },
+  {
+    "name": "Real Estate Receives Major Investment",
+    "affects": [
+      "Real Estate"
+    ],
+    "change_range": [
+      8,
+      25
+    ]
+  },
+  {
+    "name": "Positive Regulation for Bio",
+    "affects": [
+      "Bio"
+    ],
+    "change_range": [
+      9,
+      12
+    ]
+  },
+  {
+    "name": "Tourism Expands Globally",
+    "affects": [
+      "Tourism"
+    ],
+    "change_range": [
+      9,
+      25
+    ]
+  },
+  {
+    "name": "Aero Receives Major Investment",
+    "affects": [
+      "Aero"
+    ],
+    "change_range": [
+      10,
+      19
+    ]
+  },
+  {
+    "name": "Tax Cut for Bio",
+    "affects": [
+      "Bio"
+    ],
+    "change_range": [
+      5,
+      13
+    ]
+  },
+  {
+    "name": "Tax Cut for Pharma",
+    "affects": [
+      "Pharma"
+    ],
+    "change_range": [
+      10,
+      12
+    ]
+  },
+  {
+    "name": "Energy Reports Record Profits",
+    "affects": [
+      "Energy"
+    ],
+    "change_range": [
+      5,
+      18
+    ]
+  },
+  {
+    "name": "Government Subsidy in Logistics",
+    "affects": [
+      "Logistics"
+    ],
+    "change_range": [
+      9,
+      19
+    ]
+  },
+  {
+    "name": "Finance Launches New Product",
+    "affects": [
+      "Finance"
+    ],
+    "change_range": [
+      6,
+      17
+    ]
+  },
+  {
+    "name": "Retail Receives Major Investment",
+    "affects": [
+      "Retail"
+    ],
+    "change_range": [
+      5,
+      19
+    ]
+  },
+  {
+    "name": "High Demand in Real Estate",
+    "affects": [
+      "Real Estate"
+    ],
+    "change_range": [
+      7,
+      16
+    ]
+  },
+  {
+    "name": "Breakthrough Innovation in Pharma",
+    "affects": [
+      "Pharma"
+    ],
+    "change_range": [
+      6,
+      19
+    ]
+  },
+  {
+    "name": "Media Acquires Competitor",
+    "affects": [
+      "Media"
+    ],
+    "change_range": [
+      10,
+      16
+    ]
+  },
+  {
+    "name": "Government Subsidy in Retail",
+    "affects": [
+      "Retail"
+    ],
+    "change_range": [
+      6,
+      12
+    ]
+  },
+  {
+    "name": "Government Subsidy in Media",
+    "affects": [
+      "Media"
+    ],
+    "change_range": [
+      10,
+      24
+    ]
+  },
+  {
+    "name": "Finance Launches New Product",
+    "affects": [
+      "Finance"
+    ],
+    "change_range": [
+      5,
+      17
+    ]
+  },
+  {
+    "name": "Healthcare Expands Globally",
+    "affects": [
+      "Healthcare"
+    ],
+    "change_range": [
+      6,
+      23
+    ]
+  },
+  {
+    "name": "Agro Suffers Supply Chain Disruption",
+    "affects": [
+      "Agro"
+    ],
+    "change_range": [
+      -6,
+      -22
+    ]
+  },
+  {
+    "name": "Energy Faces Regulatory Fines",
+    "affects": [
+      "Energy"
+    ],
+    "change_range": [
+      -7,
+      -11
+    ]
+  },
+  {
+    "name": "Bio Suffers Supply Chain Disruption",
+    "affects": [
+      "Bio"
+    ],
+    "change_range": [
+      -7,
+      -20
+    ]
+  },
+  {
+    "name": "Interest Rate Hike Hurts Energy",
+    "affects": [
+      "Energy"
+    ],
+    "change_range": [
+      -7,
+      -16
+    ]
+  },
+  {
+    "name": "Aero Faces Regulatory Fines",
+    "affects": [
+      "Aero"
+    ],
+    "change_range": [
+      -5,
+      -15
+    ]
+  },
+  {
+    "name": "Market Crash Hits Food",
+    "affects": [
+      "Food"
+    ],
+    "change_range": [
+      -8,
+      -16
+    ]
+  },
+  {
+    "name": "Data Breach Hits Healthcare",
+    "affects": [
+      "Healthcare"
+    ],
+    "change_range": [
+      -5,
+      -16
+    ]
+  },
+  {
+    "name": "Scandal in Logistics",
+    "affects": [
+      "Logistics"
+    ],
+    "change_range": [
+      -7,
+      -14
+    ]
+  },
+  {
+    "name": "Luxury Hit by Lawsuit",
+    "affects": [
+      "Luxury"
+    ],
+    "change_range": [
+      -8,
+      -21
+    ]
+  },
+  {
+    "name": "Scandal in Agro",
+    "affects": [
+      "Agro"
+    ],
+    "change_range": [
+      -8,
+      -23
+    ]
+  },
+  {
+    "name": "Interest Rate Hike Hurts Luxury",
+    "affects": [
+      "Luxury"
+    ],
+    "change_range": [
+      -6,
+      -19
+    ]
+  },
+  {
+    "name": "Market Crash Hits Bio",
+    "affects": [
+      "Bio"
+    ],
+    "change_range": [
+      -8,
+      -25
+    ]
+  },
+  {
+    "name": "Interest Rate Hike Hurts Media",
+    "affects": [
+      "Media"
+    ],
+    "change_range": [
+      -7,
+      -15
+    ]
+  },
+  {
+    "name": "Market Crash Hits Telecom",
+    "affects": [
+      "Telecom"
+    ],
+    "change_range": [
+      -6,
+      -13
+    ]
+  },
+  {
+    "name": "Data Breach Hits Logistics",
+    "affects": [
+      "Logistics"
+    ],
+    "change_range": [
+      -5,
+      -13
+    ]
+  },
+  {
+    "name": "Strike Halts Real Estate",
+    "affects": [
+      "Real Estate"
+    ],
+    "change_range": [
+      -10,
+      -11
+    ]
+  },
+  {
+    "name": "Interest Rate Hike Hurts Auto",
+    "affects": [
+      "Auto"
+    ],
+    "change_range": [
+      -10,
+      -23
+    ]
+  },
+  {
+    "name": "Healthcare Declares Bankruptcy",
+    "affects": [
+      "Healthcare"
+    ],
+    "change_range": [
+      -6,
+      -16
+    ]
+  },
+  {
+    "name": "Market Crash Hits Agro",
+    "affects": [
+      "Agro"
+    ],
+    "change_range": [
+      -8,
+      -11
+    ]
+  },
+  {
+    "name": "Retail Posts Major Losses",
+    "affects": [
+      "Retail"
+    ],
+    "change_range": [
+      -6,
+      -19
+    ]
+  },
+  {
+    "name": "Strike Halts Logistics",
+    "affects": [
+      "Logistics"
+    ],
+    "change_range": [
+      -5,
+      -20
+    ]
+  },
+  {
+    "name": "Defense Declares Bankruptcy",
+    "affects": [
+      "Defense"
+    ],
+    "change_range": [
+      -8,
+      -11
+    ]
+  },
+  {
+    "name": "Market Crash Hits Telecom",
+    "affects": [
+      "Telecom"
+    ],
+    "change_range": [
+      -8,
+      -18
+    ]
+  },
+  {
+    "name": "Strike Halts Luxury",
+    "affects": [
+      "Luxury"
+    ],
+    "change_range": [
+      -10,
+      -12
+    ]
+  },
+  {
+    "name": "Crypto Suffers Supply Chain Disruption",
+    "affects": [
+      "Crypto"
+    ],
+    "change_range": [
+      -9,
+      -12
+    ]
+  },
+  {
+    "name": "Interest Rate Hike Hurts Energy",
+    "affects": [
+      "Energy"
+    ],
+    "change_range": [
+      -7,
+      -21
+    ]
+  },
+  {
+    "name": "Data Breach Hits Luxury",
+    "affects": [
+      "Luxury"
+    ],
+    "change_range": [
+      -10,
+      -24
+    ]
+  },
+  {
+    "name": "Telecom Hit by Lawsuit",
+    "affects": [
+      "Telecom"
+    ],
+    "change_range": [
+      -10,
+      -16
+    ]
+  },
+  {
+    "name": "Data Breach Hits Pharma",
+    "affects": [
+      "Pharma"
+    ],
+    "change_range": [
+      -8,
+      -21
+    ]
+  },
+  {
+    "name": "Tourism Hit by Lawsuit",
+    "affects": [
+      "Tourism"
+    ],
+    "change_range": [
+      -6,
+      -23
+    ]
+  },
+  {
+    "name": "Retail Declares Bankruptcy",
+    "affects": [
+      "Retail"
+    ],
+    "change_range": [
+      -7,
+      -17
+    ]
+  },
+  {
+    "name": "Tourism Suffers Supply Chain Disruption",
+    "affects": [
+      "Tourism"
+    ],
+    "change_range": [
+      -7,
+      -25
+    ]
+  },
+  {
+    "name": "Aero Posts Major Losses",
+    "affects": [
+      "Aero"
+    ],
+    "change_range": [
+      -7,
+      -23
+    ]
+  },
+  {
+    "name": "Auto Declares Bankruptcy",
+    "affects": [
+      "Auto"
+    ],
+    "change_range": [
+      -10,
+      -21
+    ]
+  },
+  {
+    "name": "Data Breach Hits Energy",
+    "affects": [
+      "Energy"
+    ],
+    "change_range": [
+      -9,
+      -19
+    ]
+  },
+  {
+    "name": "Luxury Faces Regulatory Fines",
+    "affects": [
+      "Luxury"
+    ],
+    "change_range": [
+      -7,
+      -14
+    ]
+  },
+  {
+    "name": "Tech Faces Regulatory Fines",
+    "affects": [
+      "Tech"
+    ],
+    "change_range": [
+      -7,
+      -21
+    ]
+  },
+  {
+    "name": "Media Hit by Lawsuit",
+    "affects": [
+      "Media"
+    ],
+    "change_range": [
+      -10,
+      -14
+    ]
+  },
+  {
+    "name": "Scandal in Crypto",
+    "affects": [
+      "Crypto"
+    ],
+    "change_range": [
+      -7,
+      -23
+    ]
+  },
+  {
+    "name": "Market Crash Hits Luxury",
+    "affects": [
+      "Luxury"
+    ],
+    "change_range": [
+      -5,
+      -12
+    ]
+  },
+  {
+    "name": "Construction Suffers Supply Chain Disruption",
+    "affects": [
+      "Construction"
+    ],
+    "change_range": [
+      -10,
+      -17
+    ]
+  },
+  {
+    "name": "Interest Rate Hike Hurts Defense",
+    "affects": [
+      "Defense"
+    ],
+    "change_range": [
+      -5,
+      -14
+    ]
+  },
+  {
+    "name": "Interest Rate Hike Hurts Defense",
+    "affects": [
+      "Defense"
+    ],
+    "change_range": [
+      -5,
+      -17
+    ]
+  },
+  {
+    "name": "Scandal in Media",
+    "affects": [
+      "Media"
+    ],
+    "change_range": [
+      -9,
+      -11
+    ]
+  },
+  {
+    "name": "Data Breach Hits Crypto",
+    "affects": [
+      "Crypto"
+    ],
+    "change_range": [
+      -5,
+      -20
+    ]
+  },
+  {
+    "name": "Scandal in Real Estate",
+    "affects": [
+      "Real Estate"
+    ],
+    "change_range": [
+      -7,
+      -20
+    ]
+  },
+  {
+    "name": "Food Hit by Lawsuit",
+    "affects": [
+      "Food"
+    ],
+    "change_range": [
+      -7,
+      -25
+    ]
+  },
+  {
+    "name": "Luxury Hit by Lawsuit",
+    "affects": [
+      "Luxury"
+    ],
+    "change_range": [
+      -10,
+      -13
+    ]
+  },
+  {
+    "name": "Data Breach Hits Finance",
+    "affects": [
+      "Finance"
+    ],
+    "change_range": [
+      -5,
+      -11
+    ]
+  },
+  {
+    "name": "Data Breach Hits Finance",
+    "affects": [
+      "Finance"
+    ],
+    "change_range": [
+      -8,
+      -17
+    ]
+  },
+  {
+    "name": "Tourism Posts Major Losses",
+    "affects": [
+      "Tourism"
+    ],
+    "change_range": [
+      -8,
+      -13
+    ]
+  },
+  {
+    "name": "Food Declares Bankruptcy",
+    "affects": [
+      "Food"
+    ],
+    "change_range": [
+      -5,
+      -23
+    ]
+  },
+  {
+    "name": "Aero Posts Major Losses",
+    "affects": [
+      "Aero"
+    ],
+    "change_range": [
+      -9,
+      -16
+    ]
+  },
+  {
+    "name": "Media Hit by Lawsuit",
+    "affects": [
+      "Media"
+    ],
+    "change_range": [
+      -7,
+      -11
+    ]
+  },
+  {
+    "name": "Data Breach Hits Retail",
+    "affects": [
+      "Retail"
+    ],
+    "change_range": [
+      -6,
+      -19
+    ]
+  },
+  {
+    "name": "Data Breach Hits Crypto",
+    "affects": [
+      "Crypto"
+    ],
+    "change_range": [
+      -5,
+      -21
+    ]
+  },
+  {
+    "name": "Data Breach Hits Construction",
+    "affects": [
+      "Construction"
+    ],
+    "change_range": [
+      -10,
+      -12
+    ]
+  },
+  {
+    "name": "Bio Declares Bankruptcy",
+    "affects": [
+      "Bio"
+    ],
+    "change_range": [
+      -9,
+      -13
+    ]
+  },
+  {
+    "name": "Scandal in Telecom",
+    "affects": [
+      "Telecom"
+    ],
+    "change_range": [
+      -10,
+      -11
+    ]
+  },
+  {
+    "name": "Construction Suffers Supply Chain Disruption",
+    "affects": [
+      "Construction"
+    ],
+    "change_range": [
+      -6,
+      -14
+    ]
+  }
+]
