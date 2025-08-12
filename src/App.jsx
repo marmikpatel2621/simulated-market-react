@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import sectorRelations from '../public/data/sectorRelations.json';
 import crisisEvents from '../public/data/crisisEvents.json';
+import marketEvents from '../public/data/marketEvents.json';
 
 const volatilityEffect = {
   low: [2, 5],
@@ -58,9 +59,15 @@ export default function App() {
   }, []);
 
   const simulateMarket = () => {
-    const triggerCrisis = Math.random() < 0.25;
+    const triggerMarketEvent = Math.random() < 0.4;
+    const triggerCrisis = !triggerMarketEvent && Math.random() < 0.25;
+
     let crisis = null;
-    if (triggerCrisis) {
+    let marketEvent = null;
+
+    if (triggerMarketEvent) {
+      marketEvent = marketEvents[Math.floor(Math.random() * marketEvents.length)];
+    } else if (triggerCrisis) {
       crisis = crisisEvents[Math.floor(Math.random() * crisisEvents.length)];
     }
 
@@ -89,6 +96,10 @@ export default function App() {
         delta += crisis.impact;
       }
 
+      if (marketEvent && marketEvent.affects.includes(sector.name)) {
+        delta += marketEvent.impact;
+      }
+
       const newPrice = Math.max(5, Math.round(sector.price * (1 + delta)));
 
       return {
@@ -112,6 +123,11 @@ export default function App() {
     if (crisis) {
       setEventLog(prev => [
         `🚨 Crisis: ${crisis.name} affects ${crisis.affects.join(', ')} (${(crisis.impact * 100).toFixed(0)}%)`,
+        ...prev
+      ]);
+    } else if (marketEvent) {
+      setEventLog(prev => [
+        `📢 News: ${marketEvent.name} impacts ${marketEvent.affects.join(', ')} (${(marketEvent.impact * 100).toFixed(0)}%)`,
         ...prev
       ]);
     } else {

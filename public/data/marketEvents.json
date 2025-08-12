@@ -1,0 +1,543 @@
+[
+  {
+    "name": "Market Event 1: Interest Rate Change",
+    "affects": [
+      "Retail"
+    ],
+    "impact": -0.1,
+    "rarity": "common"
+  },
+  {
+    "name": "Market Event 2: IPO Surge",
+    "affects": [
+      "Auto"
+    ],
+    "impact": 0.09,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Market Event 3: Holiday Sales Boom",
+    "affects": [
+      "Real Estate",
+      "Telecom",
+      "Healthcare"
+    ],
+    "impact": 0.09,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Market Event 4: Economic Report",
+    "affects": [
+      "Healthcare",
+      "Telecom"
+    ],
+    "impact": 0.02,
+    "rarity": "rare"
+  },
+  {
+    "name": "Market Event 5: Government Stimulus",
+    "affects": [
+      "Defense",
+      "Agro"
+    ],
+    "impact": 0.04,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Market Event 6: Sector Rotation",
+    "affects": [
+      "Healthcare",
+      "Aero",
+      "Logistics"
+    ],
+    "impact": -0.08,
+    "rarity": "rare"
+  },
+  {
+    "name": "Market Event 7: Government Stimulus",
+    "affects": [
+      "Tech",
+      "Real Estate"
+    ],
+    "impact": 0.08,
+    "rarity": "rare"
+  },
+  {
+    "name": "Market Event 8: Oil Price Fluctuation",
+    "affects": [
+      "Insurance",
+      "Agro"
+    ],
+    "impact": 0.08,
+    "rarity": "rare"
+  },
+  {
+    "name": "Market Event 9: Oil Price Fluctuation",
+    "affects": [
+      "Defense",
+      "Logistics",
+      "Aero"
+    ],
+    "impact": -0.01,
+    "rarity": "common"
+  },
+  {
+    "name": "Market Event 10: Holiday Sales Boom",
+    "affects": [
+      "Telecom",
+      "Retail"
+    ],
+    "impact": -0.0,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Market Event 11: Sector Rotation",
+    "affects": [
+      "Aero"
+    ],
+    "impact": -0.08,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Market Event 12: IPO Surge",
+    "affects": [
+      "Healthcare",
+      "Telecom",
+      "Energy"
+    ],
+    "impact": 0.03,
+    "rarity": "common"
+  },
+  {
+    "name": "Market Event 13: Economic Report",
+    "affects": [
+      "Bio",
+      "Luxury"
+    ],
+    "impact": 0.05,
+    "rarity": "common"
+  },
+  {
+    "name": "Market Event 14: IPO Surge",
+    "affects": [
+      "Retail",
+      "Insurance"
+    ],
+    "impact": -0.09,
+    "rarity": "common"
+  },
+  {
+    "name": "Market Event 15: Government Stimulus",
+    "affects": [
+      "Agro"
+    ],
+    "impact": 0.03,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Market Event 16: Government Stimulus",
+    "affects": [
+      "Retail",
+      "Media",
+      "Healthcare"
+    ],
+    "impact": 0.05,
+    "rarity": "common"
+  },
+  {
+    "name": "Market Event 17: Economic Report",
+    "affects": [
+      "Pharma"
+    ],
+    "impact": -0.09,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Market Event 18: Sector Rotation",
+    "affects": [
+      "Food",
+      "Bio",
+      "Logistics"
+    ],
+    "impact": 0.05,
+    "rarity": "rare"
+  },
+  {
+    "name": "Market Event 19: Tech Innovation",
+    "affects": [
+      "Real Estate",
+      "Luxury"
+    ],
+    "impact": 0.09,
+    "rarity": "common"
+  },
+  {
+    "name": "Market Event 20: Holiday Sales Boom",
+    "affects": [
+      "Defense",
+      "Bio"
+    ],
+    "impact": -0.1,
+    "rarity": "common"
+  },
+  {
+    "name": "Market Event 21: Corporate Earnings",
+    "affects": [
+      "Auto"
+    ],
+    "impact": 0.07,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Market Event 22: Corporate Earnings",
+    "affects": [
+      "Media",
+      "Logistics",
+      "Aero"
+    ],
+    "impact": 0.01,
+    "rarity": "common"
+  },
+  {
+    "name": "Market Event 23: Sector Rotation",
+    "affects": [
+      "Healthcare",
+      "Pharma"
+    ],
+    "impact": -0.04,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Market Event 24: Economic Report",
+    "affects": [
+      "Real Estate",
+      "Insurance"
+    ],
+    "impact": 0.05,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Market Event 25: Economic Report",
+    "affects": [
+      "Auto"
+    ],
+    "impact": 0.03,
+    "rarity": "rare"
+  },
+  {
+    "name": "Market Event 26: Government Stimulus",
+    "affects": [
+      "Luxury",
+      "Insurance",
+      "Construction"
+    ],
+    "impact": -0.01,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Market Event 27: Corporate Earnings",
+    "affects": [
+      "Defense",
+      "Media",
+      "Luxury"
+    ],
+    "impact": -0.05,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Market Event 28: Corporate Earnings",
+    "affects": [
+      "Agro"
+    ],
+    "impact": -0.02,
+    "rarity": "common"
+  },
+  {
+    "name": "Market Event 29: Holiday Sales Boom",
+    "affects": [
+      "Food",
+      "Crypto",
+      "Insurance"
+    ],
+    "impact": -0.04,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Market Event 30: IPO Surge",
+    "affects": [
+      "Bio",
+      "Tech"
+    ],
+    "impact": -0.07,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Market Event 31: Holiday Sales Boom",
+    "affects": [
+      "Tourism",
+      "Crypto"
+    ],
+    "impact": -0.03,
+    "rarity": "rare"
+  },
+  {
+    "name": "Market Event 32: Tech Innovation",
+    "affects": [
+      "Crypto"
+    ],
+    "impact": 0.01,
+    "rarity": "common"
+  },
+  {
+    "name": "Market Event 33: Oil Price Fluctuation",
+    "affects": [
+      "Healthcare",
+      "Tourism"
+    ],
+    "impact": -0.02,
+    "rarity": "common"
+  },
+  {
+    "name": "Market Event 34: Economic Report",
+    "affects": [
+      "Aero",
+      "Construction",
+      "Telecom"
+    ],
+    "impact": -0.06,
+    "rarity": "common"
+  },
+  {
+    "name": "Market Event 35: Sector Rotation",
+    "affects": [
+      "Energy"
+    ],
+    "impact": -0.07,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Market Event 36: Tech Innovation",
+    "affects": [
+      "Retail",
+      "Luxury"
+    ],
+    "impact": 0.1,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Market Event 37: Trade Deal Announcement",
+    "affects": [
+      "Bio"
+    ],
+    "impact": 0.08,
+    "rarity": "common"
+  },
+  {
+    "name": "Market Event 38: Interest Rate Change",
+    "affects": [
+      "Insurance",
+      "Bio",
+      "Real Estate"
+    ],
+    "impact": 0.09,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Market Event 39: Interest Rate Change",
+    "affects": [
+      "Pharma",
+      "Food"
+    ],
+    "impact": 0.09,
+    "rarity": "common"
+  },
+  {
+    "name": "Market Event 40: Tech Innovation",
+    "affects": [
+      "Pharma",
+      "Tech"
+    ],
+    "impact": -0.07,
+    "rarity": "rare"
+  },
+  {
+    "name": "Market Event 41: Holiday Sales Boom",
+    "affects": [
+      "Tech"
+    ],
+    "impact": -0.03,
+    "rarity": "rare"
+  },
+  {
+    "name": "Market Event 42: Interest Rate Change",
+    "affects": [
+      "Tech"
+    ],
+    "impact": 0.02,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Market Event 43: Holiday Sales Boom",
+    "affects": [
+      "Real Estate",
+      "Aero"
+    ],
+    "impact": 0.07,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Market Event 44: Interest Rate Change",
+    "affects": [
+      "Insurance",
+      "Logistics"
+    ],
+    "impact": -0.02,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Market Event 45: Trade Deal Announcement",
+    "affects": [
+      "Finance"
+    ],
+    "impact": 0.0,
+    "rarity": "rare"
+  },
+  {
+    "name": "Market Event 46: Holiday Sales Boom",
+    "affects": [
+      "Bio"
+    ],
+    "impact": -0.05,
+    "rarity": "rare"
+  },
+  {
+    "name": "Market Event 47: Economic Report",
+    "affects": [
+      "Insurance",
+      "Bio"
+    ],
+    "impact": -0.03,
+    "rarity": "rare"
+  },
+  {
+    "name": "Market Event 48: Government Stimulus",
+    "affects": [
+      "Food",
+      "Telecom",
+      "Media"
+    ],
+    "impact": 0.08,
+    "rarity": "rare"
+  },
+  {
+    "name": "Market Event 49: Tech Innovation",
+    "affects": [
+      "Bio"
+    ],
+    "impact": 0.09,
+    "rarity": "rare"
+  },
+  {
+    "name": "Market Event 50: Sector Rotation",
+    "affects": [
+      "Tourism",
+      "Luxury"
+    ],
+    "impact": -0.09,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Market Event 51: Sector Rotation",
+    "affects": [
+      "Agro",
+      "Telecom",
+      "Aero"
+    ],
+    "impact": -0.05,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Market Event 52: Oil Price Fluctuation",
+    "affects": [
+      "Logistics",
+      "Defense",
+      "Real Estate"
+    ],
+    "impact": 0.07,
+    "rarity": "common"
+  },
+  {
+    "name": "Market Event 53: Oil Price Fluctuation",
+    "affects": [
+      "Auto",
+      "Energy"
+    ],
+    "impact": -0.0,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Market Event 54: Sector Rotation",
+    "affects": [
+      "Crypto",
+      "Healthcare"
+    ],
+    "impact": 0.04,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Market Event 55: Trade Deal Announcement",
+    "affects": [
+      "Bio",
+      "Tech",
+      "Logistics"
+    ],
+    "impact": 0.08,
+    "rarity": "rare"
+  },
+  {
+    "name": "Market Event 56: Tech Innovation",
+    "affects": [
+      "Energy",
+      "Food"
+    ],
+    "impact": 0.08,
+    "rarity": "common"
+  },
+  {
+    "name": "Market Event 57: Corporate Earnings",
+    "affects": [
+      "Luxury",
+      "Real Estate"
+    ],
+    "impact": 0.08,
+    "rarity": "rare"
+  },
+  {
+    "name": "Market Event 58: IPO Surge",
+    "affects": [
+      "Insurance",
+      "Healthcare"
+    ],
+    "impact": 0.02,
+    "rarity": "rare"
+  },
+  {
+    "name": "Market Event 59: Economic Report",
+    "affects": [
+      "Construction",
+      "Real Estate",
+      "Healthcare"
+    ],
+    "impact": 0.02,
+    "rarity": "rare"
+  },
+  {
+    "name": "Market Event 60: Tech Innovation",
+    "affects": [
+      "Real Estate",
+      "Tech"
+    ],
+    "impact": -0.04,
+    "rarity": "rare"
+  }
+]
