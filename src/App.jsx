@@ -30,6 +30,39 @@ const sectorRelations = {
   Insurance: { Finance: 1, Healthcare: 1 }
 };
 
+const crisisEvents = [
+  {
+    name: "Oil Crisis",
+    affects: ["Energy", "Auto", "Logistics"],
+    impact: -0.15
+  },
+  {
+    name: "Tech Bubble Burst",
+    affects: ["Tech", "Crypto", "Media"],
+    impact: -0.20
+  },
+  {
+    name: "Pandemic Alert",
+    affects: ["Tourism", "Retail", "Aero"],
+    impact: -0.18
+  },
+  {
+    name: "Interest Rate Hike",
+    affects: ["Finance", "RealEstate", "Construction"],
+    impact: -0.12
+  },
+  {
+    name: "Defense Spending Surge",
+    affects: ["Defense", "Aero", "Construction"],
+    impact: 0.15
+  },
+  {
+    name: "Agriculture Boom",
+    affects: ["Agro", "Food", "Retail"],
+    impact: 0.10
+  }
+];
+
 function calculateEMA(prices, period) {
   if (prices.length < period) return prices[prices.length - 1] || 0;
   const k = 2 / (period + 1);
@@ -43,7 +76,6 @@ function calculateEMA(prices, period) {
 export default function App() {
   const [sectors, setSectors] = useState([]);
   const [eventLog, setEventLog] = useState([]);
-  const [eventDeck, setEventDeck] = useState([]);
   const [playerPortfolio, setPlayerPortfolio] = useState({ cash: 1000, holdings: {} });
   const [priceHistory, setPriceHistory] = useState({});
 
@@ -72,11 +104,6 @@ export default function App() {
   ];
 
   useEffect(() => {
-    fetch('/market_events.json')
-      .then(res => res.json())
-      .then(data => setEventDeck(data))
-      .catch(err => console.error("Failed to load event data", err));
-
     const selected = initialSectors.sort(() => 0.5 - Math.random()).slice(0, 8);
     const initial = selected.map(s => ({ ...s, price: 100 }));
     setSectors(initial);
@@ -86,14 +113,10 @@ export default function App() {
   }, []);
 
   const simulateMarket = () => {
-    const triggerEvent = Math.random() < 0.3;
-    let event = null;
-    let change = 0;
-    if (triggerEvent && eventDeck.length > 0) {
-      event = eventDeck[Math.floor(Math.random() * eventDeck.length)];
-      change = Math.floor(
-        Math.random() * (event.change_range[1] - event.change_range[0] + 1)
-      ) + event.change_range[0];
+    const triggerCrisis = Math.random() < 0.25;
+    let crisis = null;
+    if (triggerCrisis) {
+      crisis = crisisEvents[Math.floor(Math.random() * crisisEvents.length)];
     }
 
     const updatedSectors = sectors.map(sector => {
@@ -117,9 +140,8 @@ export default function App() {
       const marketFluctuation = (Math.random() * (max - min) + min) / 100;
       let delta = Math.random() < baseProb ? marketFluctuation : -marketFluctuation;
 
-      if (event && event.affects.includes(sector.name)) {
-        const eventScale = change / 100;
-        delta += eventScale * ((Math.random() * (max - min) + min) / 100);
+      if (crisis && crisis.affects.includes(sector.name)) {
+        delta += crisis.impact;
       }
 
       const newPrice = Math.max(5, Math.round(sector.price * (1 + delta)));
@@ -142,9 +164,9 @@ export default function App() {
     setSectors(updatedSectors);
     setPriceHistory(updatedHistory);
 
-    if (event) {
+    if (crisis) {
       setEventLog(prev => [
-        `${event.name} affects ${event.affects.join(', ')} (${change > 0 ? '+' : ''}${change}%)`,
+        `🚨 Crisis: ${crisis.name} affects ${crisis.affects.join(', ')} (${(crisis.impact * 100).toFixed(0)}%)`,
         ...prev
       ]);
     } else {
