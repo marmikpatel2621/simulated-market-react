@@ -1,0 +1,1009 @@
+[
+  {
+    "name": "Event 1: Energy Crisis",
+    "affects": [
+      "Finance",
+      "Bio"
+    ],
+    "impact": -0.04,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 2: Deflation Wave",
+    "affects": [
+      "Luxury",
+      "Real Estate",
+      "Retail"
+    ],
+    "impact": 0.06,
+    "rarity": "rare"
+  },
+  {
+    "name": "Event 3: Climate Protest",
+    "affects": [
+      "Healthcare",
+      "Pharma",
+      "Construction"
+    ],
+    "impact": 0.14,
+    "rarity": "common"
+  },
+  {
+    "name": "Event 4: Political Unrest",
+    "affects": [
+      "Healthcare",
+      "Tech"
+    ],
+    "impact": 0.15,
+    "rarity": "epic"
+  },
+  {
+    "name": "Event 5: Energy Crisis",
+    "affects": [
+      "Retail",
+      "Energy",
+      "Logistics",
+      "Insurance"
+    ],
+    "impact": 0.03,
+    "rarity": "rare"
+  },
+  {
+    "name": "Event 6: Climate Protest",
+    "affects": [
+      "Tourism",
+      "Defense",
+      "Pharma",
+      "Agro"
+    ],
+    "impact": -0.04,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 7: Inflation Spike",
+    "affects": [
+      "Energy",
+      "Media",
+      "Defense",
+      "Retail"
+    ],
+    "impact": -0.15,
+    "rarity": "common"
+  },
+  {
+    "name": "Event 8: Climate Protest",
+    "affects": [
+      "Tech",
+      "Insurance"
+    ],
+    "impact": 0.19,
+    "rarity": "rare"
+  },
+  {
+    "name": "Event 9: Epidemic",
+    "affects": [
+      "Real Estate",
+      "Pharma",
+      "Energy",
+      "Defense"
+    ],
+    "impact": 0.06,
+    "rarity": "common"
+  },
+  {
+    "name": "Event 10: Global Panic",
+    "affects": [
+      "Tourism",
+      "Media",
+      "Retail"
+    ],
+    "impact": 0.1,
+    "rarity": "rare"
+  },
+  {
+    "name": "Event 11: Cyber Attack",
+    "affects": [
+      "Construction",
+      "Defense",
+      "Finance"
+    ],
+    "impact": -0.09,
+    "rarity": "rare"
+  },
+  {
+    "name": "Event 12: Breakthrough Discovery",
+    "affects": [
+      "Auto",
+      "Energy",
+      "Logistics"
+    ],
+    "impact": 0.15,
+    "rarity": "rare"
+  },
+  {
+    "name": "Event 13: Climate Protest",
+    "affects": [
+      "Aero",
+      "Bio",
+      "Luxury",
+      "Media"
+    ],
+    "impact": -0.07,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 14: Global Panic",
+    "affects": [
+      "Pharma",
+      "Tourism",
+      "Food"
+    ],
+    "impact": -0.04,
+    "rarity": "rare"
+  },
+  {
+    "name": "Event 15: Breakthrough Discovery",
+    "affects": [
+      "Bio",
+      "Food",
+      "Logistics"
+    ],
+    "impact": -0.12,
+    "rarity": "rare"
+  },
+  {
+    "name": "Event 16: Energy Crisis",
+    "affects": [
+      "Food",
+      "Tech",
+      "Tourism",
+      "Media"
+    ],
+    "impact": -0.18,
+    "rarity": "epic"
+  },
+  {
+    "name": "Event 17: Energy Crisis",
+    "affects": [
+      "Agro",
+      "Logistics",
+      "Aero",
+      "Pharma"
+    ],
+    "impact": 0.17,
+    "rarity": "common"
+  },
+  {
+    "name": "Event 18: Market Speculation",
+    "affects": [
+      "Finance",
+      "Healthcare",
+      "Construction"
+    ],
+    "impact": -0.06,
+    "rarity": "legendary"
+  },
+  {
+    "name": "Event 19: Breakthrough Discovery",
+    "affects": [
+      "Tech",
+      "Pharma",
+      "Healthcare"
+    ],
+    "impact": -0.05,
+    "rarity": "common"
+  },
+  {
+    "name": "Event 20: Inflation Spike",
+    "affects": [
+      "Healthcare",
+      "Construction"
+    ],
+    "impact": -0.05,
+    "rarity": "legendary"
+  },
+  {
+    "name": "Event 21: Epidemic",
+    "affects": [
+      "Defense",
+      "Retail"
+    ],
+    "impact": 0.02,
+    "rarity": "epic"
+  },
+  {
+    "name": "Event 22: Market Speculation",
+    "affects": [
+      "Aero",
+      "Defense",
+      "Tech",
+      "Food"
+    ],
+    "impact": 0.04,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 23: Market Speculation",
+    "affects": [
+      "Food",
+      "Logistics"
+    ],
+    "impact": -0.2,
+    "rarity": "common"
+  },
+  {
+    "name": "Event 24: Climate Protest",
+    "affects": [
+      "Tourism",
+      "Bio",
+      "Logistics",
+      "Retail"
+    ],
+    "impact": 0.03,
+    "rarity": "legendary"
+  },
+  {
+    "name": "Event 25: Deflation Wave",
+    "affects": [
+      "Auto",
+      "Finance"
+    ],
+    "impact": 0.1,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 26: Regulatory Clampdown",
+    "affects": [
+      "Healthcare",
+      "Media",
+      "Logistics"
+    ],
+    "impact": 0.01,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 27: Cyber Attack",
+    "affects": [
+      "Food",
+      "Luxury"
+    ],
+    "impact": 0.14,
+    "rarity": "legendary"
+  },
+  {
+    "name": "Event 28: Deflation Wave",
+    "affects": [
+      "Luxury",
+      "Aero",
+      "Insurance",
+      "Auto"
+    ],
+    "impact": -0.18,
+    "rarity": "rare"
+  },
+  {
+    "name": "Event 29: Climate Protest",
+    "affects": [
+      "Aero",
+      "Food",
+      "Defense"
+    ],
+    "impact": -0.12,
+    "rarity": "common"
+  },
+  {
+    "name": "Event 30: Climate Protest",
+    "affects": [
+      "Luxury",
+      "Media"
+    ],
+    "impact": -0.12,
+    "rarity": "legendary"
+  },
+  {
+    "name": "Event 31: New Trade Agreement",
+    "affects": [
+      "Construction",
+      "Telecom",
+      "Real Estate"
+    ],
+    "impact": 0.11,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 32: Breakthrough Discovery",
+    "affects": [
+      "Defense",
+      "Logistics",
+      "Retail",
+      "Tourism"
+    ],
+    "impact": -0.08,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 33: Inflation Spike",
+    "affects": [
+      "Logistics",
+      "Real Estate"
+    ],
+    "impact": -0.02,
+    "rarity": "common"
+  },
+  {
+    "name": "Event 34: Regulatory Clampdown",
+    "affects": [
+      "Telecom",
+      "Aero",
+      "Energy"
+    ],
+    "impact": 0.02,
+    "rarity": "legendary"
+  },
+  {
+    "name": "Event 35: Breakthrough Discovery",
+    "affects": [
+      "Energy",
+      "Bio",
+      "Finance"
+    ],
+    "impact": -0.07,
+    "rarity": "rare"
+  },
+  {
+    "name": "Event 36: Energy Crisis",
+    "affects": [
+      "Tech",
+      "Tourism",
+      "Telecom"
+    ],
+    "impact": 0.1,
+    "rarity": "common"
+  },
+  {
+    "name": "Event 37: Climate Protest",
+    "affects": [
+      "Construction",
+      "Logistics",
+      "Defense",
+      "Real Estate"
+    ],
+    "impact": 0.09,
+    "rarity": "epic"
+  },
+  {
+    "name": "Event 38: Regulatory Clampdown",
+    "affects": [
+      "Finance",
+      "Crypto",
+      "Retail",
+      "Energy"
+    ],
+    "impact": 0.2,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 39: Market Speculation",
+    "affects": [
+      "Food",
+      "Tourism",
+      "Luxury"
+    ],
+    "impact": -0.09,
+    "rarity": "legendary"
+  },
+  {
+    "name": "Event 40: Energy Crisis",
+    "affects": [
+      "Agro",
+      "Pharma"
+    ],
+    "impact": 0.04,
+    "rarity": "common"
+  },
+  {
+    "name": "Event 41: Market Speculation",
+    "affects": [
+      "Auto",
+      "Agro"
+    ],
+    "impact": -0.08,
+    "rarity": "common"
+  },
+  {
+    "name": "Event 42: Energy Crisis",
+    "affects": [
+      "Retail",
+      "Logistics"
+    ],
+    "impact": 0.11,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 43: Global Panic",
+    "affects": [
+      "Insurance",
+      "Aero",
+      "Energy"
+    ],
+    "impact": 0.03,
+    "rarity": "epic"
+  },
+  {
+    "name": "Event 44: Market Speculation",
+    "affects": [
+      "Finance",
+      "Healthcare",
+      "Tourism",
+      "Agro"
+    ],
+    "impact": -0.13,
+    "rarity": "common"
+  },
+  {
+    "name": "Event 45: Epidemic",
+    "affects": [
+      "Aero",
+      "Insurance",
+      "Telecom",
+      "Luxury"
+    ],
+    "impact": 0.18,
+    "rarity": "legendary"
+  },
+  {
+    "name": "Event 46: New Trade Agreement",
+    "affects": [
+      "Telecom",
+      "Real Estate",
+      "Pharma",
+      "Tourism"
+    ],
+    "impact": -0.11,
+    "rarity": "legendary"
+  },
+  {
+    "name": "Event 47: Political Unrest",
+    "affects": [
+      "Media",
+      "Tourism",
+      "Bio"
+    ],
+    "impact": -0.01,
+    "rarity": "legendary"
+  },
+  {
+    "name": "Event 48: Market Speculation",
+    "affects": [
+      "Tech",
+      "Crypto",
+      "Agro"
+    ],
+    "impact": -0.03,
+    "rarity": "rare"
+  },
+  {
+    "name": "Event 49: Energy Crisis",
+    "affects": [
+      "Real Estate",
+      "Aero"
+    ],
+    "impact": 0.14,
+    "rarity": "legendary"
+  },
+  {
+    "name": "Event 50: Cyber Attack",
+    "affects": [
+      "Agro",
+      "Pharma",
+      "Tourism",
+      "Finance"
+    ],
+    "impact": -0.13,
+    "rarity": "legendary"
+  },
+  {
+    "name": "Event 51: Regulatory Clampdown",
+    "affects": [
+      "Tourism",
+      "Bio",
+      "Aero"
+    ],
+    "impact": 0.09,
+    "rarity": "legendary"
+  },
+  {
+    "name": "Event 52: Deflation Wave",
+    "affects": [
+      "Retail",
+      "Construction",
+      "Defense",
+      "Crypto"
+    ],
+    "impact": 0.18,
+    "rarity": "common"
+  },
+  {
+    "name": "Event 53: Global Panic",
+    "affects": [
+      "Aero",
+      "Energy"
+    ],
+    "impact": -0.17,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 54: Energy Crisis",
+    "affects": [
+      "Pharma",
+      "Media"
+    ],
+    "impact": -0.13,
+    "rarity": "rare"
+  },
+  {
+    "name": "Event 55: Global Panic",
+    "affects": [
+      "Insurance",
+      "Media",
+      "Agro",
+      "Energy"
+    ],
+    "impact": 0.06,
+    "rarity": "epic"
+  },
+  {
+    "name": "Event 56: Inflation Spike",
+    "affects": [
+      "Food",
+      "Luxury"
+    ],
+    "impact": 0.15,
+    "rarity": "rare"
+  },
+  {
+    "name": "Event 57: Epidemic",
+    "affects": [
+      "Finance",
+      "Bio",
+      "Tech",
+      "Agro"
+    ],
+    "impact": 0.06,
+    "rarity": "epic"
+  },
+  {
+    "name": "Event 58: New Trade Agreement",
+    "affects": [
+      "Defense",
+      "Tech"
+    ],
+    "impact": 0.04,
+    "rarity": "epic"
+  },
+  {
+    "name": "Event 59: Energy Crisis",
+    "affects": [
+      "Crypto",
+      "Logistics",
+      "Luxury"
+    ],
+    "impact": -0.01,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 60: Global Panic",
+    "affects": [
+      "Agro",
+      "Bio",
+      "Logistics"
+    ],
+    "impact": 0.1,
+    "rarity": "legendary"
+  },
+  {
+    "name": "Event 61: Regulatory Clampdown",
+    "affects": [
+      "Energy",
+      "Pharma",
+      "Aero"
+    ],
+    "impact": -0.13,
+    "rarity": "epic"
+  },
+  {
+    "name": "Event 62: Epidemic",
+    "affects": [
+      "Energy",
+      "Auto",
+      "Media",
+      "Telecom"
+    ],
+    "impact": 0.05,
+    "rarity": "epic"
+  },
+  {
+    "name": "Event 63: Political Unrest",
+    "affects": [
+      "Luxury",
+      "Logistics",
+      "Tourism",
+      "Agro"
+    ],
+    "impact": -0.02,
+    "rarity": "common"
+  },
+  {
+    "name": "Event 64: New Trade Agreement",
+    "affects": [
+      "Energy",
+      "Retail",
+      "Pharma",
+      "Tourism"
+    ],
+    "impact": 0.16,
+    "rarity": "legendary"
+  },
+  {
+    "name": "Event 65: New Trade Agreement",
+    "affects": [
+      "Crypto",
+      "Auto"
+    ],
+    "impact": -0.12,
+    "rarity": "rare"
+  },
+  {
+    "name": "Event 66: Energy Crisis",
+    "affects": [
+      "Logistics",
+      "Bio"
+    ],
+    "impact": -0.1,
+    "rarity": "epic"
+  },
+  {
+    "name": "Event 67: Breakthrough Discovery",
+    "affects": [
+      "Telecom",
+      "Finance",
+      "Defense"
+    ],
+    "impact": 0.15,
+    "rarity": "epic"
+  },
+  {
+    "name": "Event 68: New Trade Agreement",
+    "affects": [
+      "Real Estate",
+      "Finance",
+      "Pharma"
+    ],
+    "impact": -0.02,
+    "rarity": "legendary"
+  },
+  {
+    "name": "Event 69: Breakthrough Discovery",
+    "affects": [
+      "Retail",
+      "Healthcare",
+      "Telecom",
+      "Luxury"
+    ],
+    "impact": -0.12,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 70: Epidemic",
+    "affects": [
+      "Healthcare",
+      "Pharma",
+      "Logistics"
+    ],
+    "impact": -0.15,
+    "rarity": "legendary"
+  },
+  {
+    "name": "Event 71: Cyber Attack",
+    "affects": [
+      "Tech",
+      "Logistics",
+      "Healthcare"
+    ],
+    "impact": -0.17,
+    "rarity": "common"
+  },
+  {
+    "name": "Event 72: Climate Protest",
+    "affects": [
+      "Telecom",
+      "Energy",
+      "Tourism",
+      "Tech"
+    ],
+    "impact": -0.03,
+    "rarity": "legendary"
+  },
+  {
+    "name": "Event 73: Breakthrough Discovery",
+    "affects": [
+      "Auto",
+      "Energy",
+      "Telecom"
+    ],
+    "impact": -0.09,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 74: Regulatory Clampdown",
+    "affects": [
+      "Auto",
+      "Finance"
+    ],
+    "impact": -0.11,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 75: Epidemic",
+    "affects": [
+      "Food",
+      "Construction",
+      "Retail"
+    ],
+    "impact": 0.1,
+    "rarity": "rare"
+  },
+  {
+    "name": "Event 76: Regulatory Clampdown",
+    "affects": [
+      "Defense",
+      "Pharma",
+      "Tourism"
+    ],
+    "impact": 0.11,
+    "rarity": "common"
+  },
+  {
+    "name": "Event 77: Cyber Attack",
+    "affects": [
+      "Auto",
+      "Luxury",
+      "Food"
+    ],
+    "impact": -0.04,
+    "rarity": "common"
+  },
+  {
+    "name": "Event 78: Global Panic",
+    "affects": [
+      "Bio",
+      "Energy",
+      "Logistics",
+      "Aero"
+    ],
+    "impact": -0.18,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 79: Cyber Attack",
+    "affects": [
+      "Logistics",
+      "Food",
+      "Tourism"
+    ],
+    "impact": 0.18,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 80: Deflation Wave",
+    "affects": [
+      "Finance",
+      "Energy",
+      "Insurance",
+      "Crypto"
+    ],
+    "impact": -0.18,
+    "rarity": "common"
+  },
+  {
+    "name": "Event 81: Global Panic",
+    "affects": [
+      "Construction",
+      "Real Estate",
+      "Auto"
+    ],
+    "impact": -0.13,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 82: Regulatory Clampdown",
+    "affects": [
+      "Pharma",
+      "Finance"
+    ],
+    "impact": 0.14,
+    "rarity": "common"
+  },
+  {
+    "name": "Event 83: Breakthrough Discovery",
+    "affects": [
+      "Telecom",
+      "Construction",
+      "Tech",
+      "Agro"
+    ],
+    "impact": 0.18,
+    "rarity": "rare"
+  },
+  {
+    "name": "Event 84: Market Speculation",
+    "affects": [
+      "Food",
+      "Defense",
+      "Agro"
+    ],
+    "impact": 0.11,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 85: Global Panic",
+    "affects": [
+      "Retail",
+      "Crypto",
+      "Media",
+      "Food"
+    ],
+    "impact": -0.1,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 86: Cyber Attack",
+    "affects": [
+      "Insurance",
+      "Real Estate",
+      "Tourism"
+    ],
+    "impact": 0.15,
+    "rarity": "common"
+  },
+  {
+    "name": "Event 87: Deflation Wave",
+    "affects": [
+      "Healthcare",
+      "Crypto",
+      "Construction"
+    ],
+    "impact": 0.02,
+    "rarity": "common"
+  },
+  {
+    "name": "Event 88: Breakthrough Discovery",
+    "affects": [
+      "Agro",
+      "Energy",
+      "Media",
+      "Healthcare"
+    ],
+    "impact": -0.16,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 89: Regulatory Clampdown",
+    "affects": [
+      "Crypto",
+      "Pharma"
+    ],
+    "impact": -0.13,
+    "rarity": "rare"
+  },
+  {
+    "name": "Event 90: Climate Protest",
+    "affects": [
+      "Retail",
+      "Media"
+    ],
+    "impact": -0.06,
+    "rarity": "legendary"
+  },
+  {
+    "name": "Event 91: Political Unrest",
+    "affects": [
+      "Retail",
+      "Construction"
+    ],
+    "impact": -0.1,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 92: Cyber Attack",
+    "affects": [
+      "Logistics",
+      "Pharma",
+      "Telecom",
+      "Auto"
+    ],
+    "impact": -0.18,
+    "rarity": "epic"
+  },
+  {
+    "name": "Event 93: Epidemic",
+    "affects": [
+      "Pharma",
+      "Healthcare",
+      "Crypto",
+      "Aero"
+    ],
+    "impact": -0.18,
+    "rarity": "epic"
+  },
+  {
+    "name": "Event 94: Market Speculation",
+    "affects": [
+      "Tech",
+      "Energy",
+      "Real Estate",
+      "Agro"
+    ],
+    "impact": 0.03,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 95: Deflation Wave",
+    "affects": [
+      "Real Estate",
+      "Retail",
+      "Luxury",
+      "Defense"
+    ],
+    "impact": -0.16,
+    "rarity": "legendary"
+  },
+  {
+    "name": "Event 96: Global Panic",
+    "affects": [
+      "Logistics",
+      "Finance",
+      "Tech"
+    ],
+    "impact": -0.18,
+    "rarity": "legendary"
+  },
+  {
+    "name": "Event 97: Cyber Attack",
+    "affects": [
+      "Pharma",
+      "Tech"
+    ],
+    "impact": 0.19,
+    "rarity": "legendary"
+  },
+  {
+    "name": "Event 98: Political Unrest",
+    "affects": [
+      "Media",
+      "Logistics",
+      "Retail"
+    ],
+    "impact": 0.12,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 99: Breakthrough Discovery",
+    "affects": [
+      "Pharma",
+      "Bio",
+      "Aero"
+    ],
+    "impact": -0.18,
+    "rarity": "uncommon"
+  },
+  {
+    "name": "Event 100: Regulatory Clampdown",
+    "affects": [
+      "Bio",
+      "Tourism"
+    ],
+    "impact": -0.04,
+    "rarity": "legendary"
+  }
+]

@@ -1,0 +1,169 @@
+{
+  "Tech": {
+    "Insurance": -0.49,
+    "Tourism": 0.58,
+    "Crypto": 0.93,
+    "Agro": -0.05,
+    "Finance": 0.47
+  },
+  "Pharma": {
+    "Energy": -0.59,
+    "Insurance": 0.39,
+    "Auto": -0.31,
+    "Agro": -0.35,
+    "Tech": 0.87
+  },
+  "Energy": {
+    "Bio": -0.78,
+    "Logistics": 0.96,
+    "Tourism": -0.43,
+    "Construction": 0.44,
+    "Agro": 0.49,
+    "Retail": 0.6,
+    "Healthcare": 0.59
+  },
+  "Retail": {
+    "Aero": -0.7,
+    "Agro": 0.27,
+    "Media": -0.81,
+    "Insurance": -0.3,
+    "Tourism": 0.69,
+    "Auto": -0.8,
+    "Telecom": 0.91
+  },
+  "Finance": {
+    "Luxury": 0.96,
+    "Real Estate": -0.03,
+    "Tech": -0.98,
+    "Logistics": -0.77,
+    "Energy": -0.9
+  },
+  "Aero": {
+    "Construction": -0.17,
+    "Finance": -0.58,
+    "Tech": -0.14,
+    "Auto": -0.42,
+    "Bio": -0.51,
+    "Healthcare": 0.44,
+    "Energy": 0.41
+  },
+  "Agro": {
+    "Finance": 0.78,
+    "Crypto": -0.37,
+    "Media": -0.31,
+    "Insurance": -0.09,
+    "Real Estate": -0.66,
+    "Luxury": 0.05,
+    "Pharma": -0.14,
+    "Retail": 0.93
+  },
+  "Crypto": {
+    "Construction": -0.36,
+    "Healthcare": 0.12,
+    "Retail": 0.43
+  },
+  "Luxury": {
+    "Energy": -0.98,
+    "Logistics": -0.5,
+    "Auto": 0.73,
+    "Bio": -0.74,
+    "Crypto": -0.41
+  },
+  "Auto": {
+    "Telecom": 0.22,
+    "Aero": -0.05,
+    "Tourism": -0.25,
+    "Logistics": 0.12,
+    "Luxury": 0.09
+  },
+  "Media": {
+    "Aero": -0.11,
+    "Telecom": 0.31,
+    "Defense": 0.98,
+    "Auto": 0.76,
+    "Insurance": -0.32,
+    "Healthcare": -0.46,
+    "Energy": 0.81,
+    "Real Estate": -0.49
+  },
+  "Bio": {
+    "Retail": 0.19,
+    "Real Estate": 0.49,
+    "Auto": 0.55,
+    "Healthcare": 0.87,
+    "Aero": -0.62,
+    "Construction": -0.94,
+    "Crypto": -0.55
+  },
+  "Real Estate": {
+    "Finance": -0.18,
+    "Healthcare": -0.93,
+    "Defense": -0.63,
+    "Tourism": 0.19
+  },
+  "Logistics": {
+    "Retail": -0.96,
+    "Insurance": -0.22,
+    "Finance": 0.85,
+    "Pharma": -0.68,
+    "Bio": -0.5,
+    "Agro": 0.88
+  },
+  "Defense": {
+    "Insurance": -0.99,
+    "Tech": 0.06,
+    "Media": -0.69,
+    "Pharma": 0.65,
+    "Food": 0.16,
+    "Telecom": 0.86,
+    "Aero": 0.86,
+    "Logistics": -0.28
+  },
+  "Food": {
+    "Healthcare": -0.51,
+    "Defense": 0.17,
+    "Retail": 0.32,
+    "Finance": 0.83,
+    "Tech": 0.37,
+    "Insurance": -0.44,
+    "Agro": 0.9
+  },
+  "Telecom": {
+    "Pharma": -0.71,
+    "Real Estate": -0.56,
+    "Luxury": 0.25,
+    "Tourism": -0.73,
+    "Bio": -0.6
+  },
+  "Tourism": {
+    "Healthcare": 0.13,
+    "Defense": -0.36,
+    "Bio": 0.92,
+    "Insurance": -0.12,
+    "Logistics": 0.5,
+    "Media": 0.09,
+    "Crypto": -0.4,
+    "Energy": -0.34
+  },
+  "Healthcare": {
+    "Energy": -0.85,
+    "Tourism": 0.03,
+    "Media": 0.31,
+    "Food": -0.35
+  },
+  "Construction": {
+    "Auto": 0.87,
+    "Tech": -0.83,
+    "Defense": -0.17,
+    "Bio": 0.86,
+    "Luxury": 0.42
+  },
+  "Insurance": {
+    "Construction": 0.27,
+    "Crypto": 0.96,
+    "Healthcare": -0.45,
+    "Bio": -0.71,
+    "Aero": -0.84,
+    "Tech": -0.8
+  }
+}

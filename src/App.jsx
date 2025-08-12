@@ -1,67 +1,12 @@
 import React, { useState, useEffect } from 'react';
+import sectorRelations from '../public/data/sectorRelations.json';
+import crisisEvents from '../public/data/crisisEvents.json';
 
 const volatilityEffect = {
   low: [2, 5],
   medium: [5, 15],
   high: [10, 25]
 };
-
-const sectorRelations = {
-  Energy: { Logistics: 1, Auto: 1, Construction: 1, Finance: -1 },
-  Tech: { Media: 1, Finance: 1, Crypto: 1, Telecom: 1, Tourism: -1 },
-  Retail: { Logistics: 1, Agro: 1, Media: 1, Food: 1, Luxury: 1 },
-  Finance: { RealEstate: 1, Auto: 1, Tech: 1, Crypto: -1 },
-  Healthcare: { Pharma: 1, Bio: 1, Food: 1, Insurance: 1 },
-  Aero: { Defense: 1, Energy: 1, Logistics: 1, Construction: -1 },
-  Crypto: { Tech: 1, Finance: -1, Media: 1 },
-  Auto: { Energy: 1, Finance: -1, Logistics: 1 },
-  Media: { Tech: 1, Retail: 1, Crypto: 1 },
-  RealEstate: { Finance: 1, Construction: 1 },
-  Logistics: { Energy: 1, Retail: 1, Auto: 1 },
-  Agro: { Retail: 1, Food: 1, Construction: 1 },
-  Defense: { Aero: 1, Construction: 1 },
-  Pharma: { Healthcare: 1, Bio: 1 },
-  Bio: { Healthcare: 1, Pharma: 1 },
-  Tourism: { Aero: 1, Media: 1, Luxury: 1, Tech: -1 },
-  Telecom: { Tech: 1, Media: 1 },
-  Construction: { RealEstate: 1, Energy: 1, Defense: 1 },
-  Food: { Agro: 1, Retail: 1 },
-  Luxury: { Retail: 1, Tourism: 1 },
-  Insurance: { Finance: 1, Healthcare: 1 }
-};
-
-const crisisEvents = [
-  {
-    name: "Oil Crisis",
-    affects: ["Energy", "Auto", "Logistics"],
-    impact: -0.15
-  },
-  {
-    name: "Tech Bubble Burst",
-    affects: ["Tech", "Crypto", "Media"],
-    impact: -0.20
-  },
-  {
-    name: "Pandemic Alert",
-    affects: ["Tourism", "Retail", "Aero"],
-    impact: -0.18
-  },
-  {
-    name: "Interest Rate Hike",
-    affects: ["Finance", "RealEstate", "Construction"],
-    impact: -0.12
-  },
-  {
-    name: "Defense Spending Surge",
-    affects: ["Defense", "Aero", "Construction"],
-    impact: 0.15
-  },
-  {
-    name: "Agriculture Boom",
-    affects: ["Agro", "Food", "Retail"],
-    impact: 0.10
-  }
-];
 
 function calculateEMA(prices, period) {
   if (prices.length < period) return prices[prices.length - 1] || 0;
